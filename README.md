@@ -1,9 +1,12 @@
-# Olá! Meu nome é Lucas Bessa, seja bem vindo ao meu perfil do github
+# Olá! Meu nome é Lucas Bessa, seja bem vindo ao meu perfil do github 
 ## *Hi threre! my name is Lucas Bessa, welcome to my github profile*
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+Sou um estudante de Ciências da computação apaixonado pelo mundo da programação 💻.
+Sigo em constante evolução e em busca de novas oportunidades.
 
-### 📫 Como entrar em contato comigo:
+---
+
+### 📫 Contatos
 
 <a href="https://www.linkedin.com/in/lucas-bessa-185565245/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -11,6 +14,16 @@
 <a href="mailto:lucas.bessafp72@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
+
+---
+
+### 📌 Interesses de aprendizado
+
+- Flutter
+- React Native
+- React
+
+---
 
 ### 🔭 Tecnologias
 
@@ -26,5 +39,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![git](	https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-  
+
+---
+
+
+### 📊 Atividade
 ![Snake animation](https://github.com/llBessa/llBessa/blob/output/github-contribution-grid-snake.svg)
