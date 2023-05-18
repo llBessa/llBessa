@@ -26,3 +26,5 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![git](	https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+  
+ ![Snake animation](https://github.com/llBessa/llBessa/blob/output/github-contribution-grid-snake.svg)
