@@ -21,7 +21,6 @@ Sigo em constante evolução e em busca de novas oportunidades.
 
 - Flutter
 - React Native
-- React
 
 ---
 
